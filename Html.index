@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8"/>
+<title>programação mobile</title>
+<link rel = "styleheet" href = "style.css">
+</head>
+<body>
+<h1 id = "título1">Colegio estadual sertãozinho</>
+<h2 id = "subtítulo">nome do aluno:</>
+
+<p class =" turma 2°ds">programação mobile</p>
+
+<p class = "parágrafo">atividade avaliativa</p>
+</body>
+</html>
